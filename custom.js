@@ -1,4 +1,4 @@
-console.log('JS run');
+console.log('JS run via git repo');
 
 // Create container element
 const container = document.createElement('div');
