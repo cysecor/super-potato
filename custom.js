@@ -1,5 +1,4 @@
 console.log('JS run via git repo');
-alert('Welcome to my website!');
 
 // Create container element
 const container = document.createElement('div');
